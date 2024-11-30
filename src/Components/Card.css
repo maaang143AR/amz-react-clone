@@ -1,0 +1,7 @@
+.card{
+    height: 320px;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

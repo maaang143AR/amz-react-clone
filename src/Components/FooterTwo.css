@@ -1,0 +1,17 @@
+.foot_panel2{
+    height: 300px;
+
+    padding-top: 20px;
+    background-color: #222f3d;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+ }
+
+ ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+ }

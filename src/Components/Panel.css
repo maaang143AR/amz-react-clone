@@ -1,0 +1,22 @@
+.panel{
+    height: 40px;
+    background-color: #222f3d;
+    display: flex;
+    color: white;
+    align-items: center;
+}
+.panel_all{
+    margin-left: 46px;
+
+}
+
+.panel_options p{
+    display: inline;
+    margin-left: 13px;
+    font-weight: 700;
+}
+.panel_options{
+    width: 70%;
+    font-size: 0.85rem;
+    
+}
