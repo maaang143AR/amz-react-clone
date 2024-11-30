@@ -6,7 +6,7 @@ const CardOne = ({title,pic}) =>{
     return(
         <div className="card_skeleton">
             <h2>{title}</h2>
-            heersda
+            
                 <img src={pic} className="card_img"/>
             
         </div>
